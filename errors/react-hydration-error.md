@@ -50,5 +50,5 @@ Common causes with css-in-js libraries:
 
 ### Useful Links
 
-- [React Hydration Documentation](https://reactjs.org/docs/react-dom.html#hydrate)
+- [React Hydration Documentation](https://reactjs.org/docs/react-dom-client.html#hydrateroot)
 - [Josh Comeau's article on React Hydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
